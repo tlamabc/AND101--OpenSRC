@@ -1,0 +1,238 @@
+[
+    {
+        "merged": "/Users/macbookpro/.gradle/daemon/8.0/com.example.asm_coban.app-merged_res-29:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/macbookpro/.gradle/daemon/8.0/com.example.asm_coban.app-main-31:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/macbookpro/.gradle/daemon/8.0/com.example.asm_coban.app-merged_res-29:/drawable_baseline_exit_to_app_24.xml.flat",
+        "source": "/Users/macbookpro/.gradle/daemon/8.0/com.example.asm_coban.app-main-31:/drawable/baseline_exit_to_app_24.xml"
+    },
+    {
+        "merged": "/Users/macbookpro/.gradle/daemon/8.0/com.example.asm_coban.app-merged_res-29:/drawable_d.png.flat",
+        "source": "/Users/macbookpro/.gradle/daemon/8.0/com.example.asm_coban.app-main-31:/drawable/d.png"
+    },
+    {
+        "merged": "/Users/macbookpro/.gradle/daemon/8.0/com.example.asm_coban.app-merged_res-29:/layout_activity_home.xml.flat",
+        "source": "/Users/macbookpro/.gradle/daemon/8.0/com.example.asm_coban.app-main-31:/layout/activity_home.xml"
+    },
+    {
+        "merged": "/Users/macbookpro/.gradle/daemon/8.0/com.example.asm_coban.app-merged_res-29:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/Users/macbookpro/.gradle/daemon/8.0/com.example.asm_coban.app-main-31:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/Users/macbookpro/.gradle/daemon/8.0/com.example.asm_coban.app-merged_res-29:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/macbookpro/.gradle/daemon/8.0/com.example.asm_coban.app-main-31:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/macbookpro/.gradle/daemon/8.0/com.example.asm_coban.app-merged_res-29:/drawable_bgr_quanli.png.flat",
+        "source": "/Users/macbookpro/.gradle/daemon/8.0/com.example.asm_coban.app-main-31:/drawable/bgr_quanli.png"
+    },
+    {
+        "merged": "/Users/macbookpro/.gradle/daemon/8.0/com.example.asm_coban.app-merged_res-29:/layout_layout_item_spinner.xml.flat",
+        "source": "/Users/macbookpro/.gradle/daemon/8.0/com.example.asm_coban.app-main-31:/layout/layout_item_spinner.xml"
+    },
+    {
+        "merged": "/Users/macbookpro/.gradle/daemon/8.0/com.example.asm_coban.app-merged_res-29:/drawable_bgr_btn_circlee.png.flat",
+        "source": "/Users/macbookpro/.gradle/daemon/8.0/com.example.asm_coban.app-main-31:/drawable/bgr_btn_circlee.png"
+    },
+    {
+        "merged": "/Users/macbookpro/.gradle/daemon/8.0/com.example.asm_coban.app-merged_res-29:/drawable_bgr_btn_transparent_no_boder.xml.flat",
+        "source": "/Users/macbookpro/.gradle/daemon/8.0/com.example.asm_coban.app-main-31:/drawable/bgr_btn_transparent_no_boder.xml"
+    },
+    {
+        "merged": "/Users/macbookpro/.gradle/daemon/8.0/com.example.asm_coban.app-merged_res-29:/xml_backup_rules.xml.flat",
+        "source": "/Users/macbookpro/.gradle/daemon/8.0/com.example.asm_coban.app-main-31:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "/Users/macbookpro/.gradle/daemon/8.0/com.example.asm_coban.app-merged_res-29:/layout_activity_regester.xml.flat",
+        "source": "/Users/macbookpro/.gradle/daemon/8.0/com.example.asm_coban.app-main-31:/layout/activity_regester.xml"
+    },
+    {
+        "merged": "/Users/macbookpro/.gradle/daemon/8.0/com.example.asm_coban.app-merged_res-29:/drawable_img.png.flat",
+        "source": "/Users/macbookpro/.gradle/daemon/8.0/com.example.asm_coban.app-main-31:/drawable/img.png"
+    },
+    {
+        "merged": "/Users/macbookpro/.gradle/daemon/8.0/com.example.asm_coban.app-merged_res-29:/drawable_baseline_search_24.xml.flat",
+        "source": "/Users/macbookpro/.gradle/daemon/8.0/com.example.asm_coban.app-main-31:/drawable/baseline_search_24.xml"
+    },
+    {
+        "merged": "/Users/macbookpro/.gradle/daemon/8.0/com.example.asm_coban.app-merged_res-29:/drawable_a.png.flat",
+        "source": "/Users/macbookpro/.gradle/daemon/8.0/com.example.asm_coban.app-main-31:/drawable/a.png"
+    },
+    {
+        "merged": "/Users/macbookpro/.gradle/daemon/8.0/com.example.asm_coban.app-merged_res-29:/drawable_img_1.png.flat",
+        "source": "/Users/macbookpro/.gradle/daemon/8.0/com.example.asm_coban.app-main-31:/drawable/img_1.png"
+    },
+    {
+        "merged": "/Users/macbookpro/.gradle/daemon/8.0/com.example.asm_coban.app-merged_res-29:/drawable_h.png.flat",
+        "source": "/Users/macbookpro/.gradle/daemon/8.0/com.example.asm_coban.app-main-31:/drawable/h.png"
+    },
+    {
+        "merged": "/Users/macbookpro/.gradle/daemon/8.0/com.example.asm_coban.app-merged_res-29:/drawable_circle.png.flat",
+        "source": "/Users/macbookpro/.gradle/daemon/8.0/com.example.asm_coban.app-main-31:/drawable/circle.png"
+    },
+    {
+        "merged": "com.example.asm_coban.app-merged_res-29:/layout_activity_welcome.xml.flat",
+        "source": "com.example.asm_coban.app-main-31:/layout/activity_welcome.xml"
+    },
+    {
+        "merged": "/Users/macbookpro/.gradle/daemon/8.0/com.example.asm_coban.app-merged_res-29:/drawable_bgr_home.png.flat",
+        "source": "/Users/macbookpro/.gradle/daemon/8.0/com.example.asm_coban.app-main-31:/drawable/bgr_home.png"
+    },
+    {
+        "merged": "/Users/macbookpro/.gradle/daemon/8.0/com.example.asm_coban.app-merged_res-29:/drawable_bgr_btn_transparent.xml.flat",
+        "source": "/Users/macbookpro/.gradle/daemon/8.0/com.example.asm_coban.app-main-31:/drawable/bgr_btn_transparent.xml"
+    },
+    {
+        "merged": "/Users/macbookpro/.gradle/daemon/8.0/com.example.asm_coban.app-merged_res-29:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "/Users/macbookpro/.gradle/daemon/8.0/com.example.asm_coban.app-main-31:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/macbookpro/.gradle/daemon/8.0/com.example.asm_coban.app-merged_res-29:/drawable_baseline_arrow_back_ios_24.xml.flat",
+        "source": "/Users/macbookpro/.gradle/daemon/8.0/com.example.asm_coban.app-main-31:/drawable/baseline_arrow_back_ios_24.xml"
+    },
+    {
+        "merged": "/Users/macbookpro/.gradle/daemon/8.0/com.example.asm_coban.app-merged_res-29:/drawable_baseline_groups_24.xml.flat",
+        "source": "/Users/macbookpro/.gradle/daemon/8.0/com.example.asm_coban.app-main-31:/drawable/baseline_groups_24.xml"
+    },
+    {
+        "merged": "/Users/macbookpro/.gradle/daemon/8.0/com.example.asm_coban.app-merged_res-29:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/macbookpro/.gradle/daemon/8.0/com.example.asm_coban.app-main-31:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/macbookpro/.gradle/daemon/8.0/com.example.asm_coban.app-merged_res-29:/drawable_bgr_regester.png.flat",
+        "source": "/Users/macbookpro/.gradle/daemon/8.0/com.example.asm_coban.app-main-31:/drawable/bgr_regester.png"
+    },
+    {
+        "merged": "/Users/macbookpro/.gradle/daemon/8.0/com.example.asm_coban.app-merged_res-29:/drawable_g.png.flat",
+        "source": "/Users/macbookpro/.gradle/daemon/8.0/com.example.asm_coban.app-main-31:/drawable/g.png"
+    },
+    {
+        "merged": "/Users/macbookpro/.gradle/daemon/8.0/com.example.asm_coban.app-merged_res-29:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "/Users/macbookpro/.gradle/daemon/8.0/com.example.asm_coban.app-main-31:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/macbookpro/.gradle/daemon/8.0/com.example.asm_coban.app-merged_res-29:/drawable_logo_unity.png.flat",
+        "source": "/Users/macbookpro/.gradle/daemon/8.0/com.example.asm_coban.app-main-31:/drawable/logo_unity.png"
+    },
+    {
+        "merged": "/Users/macbookpro/.gradle/daemon/8.0/com.example.asm_coban.app-merged_res-29:/drawable_logo_computer.png.flat",
+        "source": "/Users/macbookpro/.gradle/daemon/8.0/com.example.asm_coban.app-main-31:/drawable/logo_computer.png"
+    },
+    {
+        "merged": "/Users/macbookpro/.gradle/daemon/8.0/com.example.asm_coban.app-merged_res-29:/drawable_baseline_home_work_24.xml.flat",
+        "source": "/Users/macbookpro/.gradle/daemon/8.0/com.example.asm_coban.app-main-31:/drawable/baseline_home_work_24.xml"
+    },
+    {
+        "merged": "/Users/macbookpro/.gradle/daemon/8.0/com.example.asm_coban.app-merged_res-29:/layout_item_card_staff.xml.flat",
+        "source": "/Users/macbookpro/.gradle/daemon/8.0/com.example.asm_coban.app-main-31:/layout/item_card_staff.xml"
+    },
+    {
+        "merged": "/Users/macbookpro/.gradle/daemon/8.0/com.example.asm_coban.app-merged_res-29:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "/Users/macbookpro/.gradle/daemon/8.0/com.example.asm_coban.app-main-31:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/macbookpro/.gradle/daemon/8.0/com.example.asm_coban.app-merged_res-29:/drawable_f.png.flat",
+        "source": "/Users/macbookpro/.gradle/daemon/8.0/com.example.asm_coban.app-main-31:/drawable/f.png"
+    },
+    {
+        "merged": "/Users/macbookpro/.gradle/daemon/8.0/com.example.asm_coban.app-merged_res-29:/xml_data_extraction_rules.xml.flat",
+        "source": "/Users/macbookpro/.gradle/daemon/8.0/com.example.asm_coban.app-main-31:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "/Users/macbookpro/.gradle/daemon/8.0/com.example.asm_coban.app-merged_res-29:/drawable_bgr_btn_delete.xml.flat",
+        "source": "/Users/macbookpro/.gradle/daemon/8.0/com.example.asm_coban.app-main-31:/drawable/bgr_btn_delete.xml"
+    },
+    {
+        "merged": "/Users/macbookpro/.gradle/daemon/8.0/com.example.asm_coban.app-merged_res-29:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/Users/macbookpro/.gradle/daemon/8.0/com.example.asm_coban.app-main-31:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.asm_coban.app-merged_res-29:/layout_activity_home.xml.flat",
+        "source": "com.example.asm_coban.app-main-31:/layout/activity_home.xml"
+    },
+    {
+        "merged": "/Users/macbookpro/.gradle/daemon/8.0/com.example.asm_coban.app-merged_res-29:/layout_activity_quanlinhanvien.xml.flat",
+        "source": "/Users/macbookpro/.gradle/daemon/8.0/com.example.asm_coban.app-main-31:/layout/activity_quanlinhanvien.xml"
+    },
+    {
+        "merged": "/Users/macbookpro/.gradle/daemon/8.0/com.example.asm_coban.app-merged_res-29:/layout_activity_add_staff.xml.flat",
+        "source": "/Users/macbookpro/.gradle/daemon/8.0/com.example.asm_coban.app-main-31:/layout/activity_add_staff.xml"
+    },
+    {
+        "merged": "/Users/macbookpro/.gradle/daemon/8.0/com.example.asm_coban.app-merged_res-29:/drawable_bgr_btn.xml.flat",
+        "source": "/Users/macbookpro/.gradle/daemon/8.0/com.example.asm_coban.app-main-31:/drawable/bgr_btn.xml"
+    },
+    {
+        "merged": "/Users/macbookpro/.gradle/daemon/8.0/com.example.asm_coban.app-merged_res-29:/drawable_c.png.flat",
+        "source": "/Users/macbookpro/.gradle/daemon/8.0/com.example.asm_coban.app-main-31:/drawable/c.png"
+    },
+    {
+        "merged": "/Users/macbookpro/.gradle/daemon/8.0/com.example.asm_coban.app-merged_res-29:/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "/Users/macbookpro/.gradle/daemon/8.0/com.example.asm_coban.app-main-31:/drawable-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/Users/macbookpro/.gradle/daemon/8.0/com.example.asm_coban.app-merged_res-29:/layout_activity_quanliphongban.xml.flat",
+        "source": "/Users/macbookpro/.gradle/daemon/8.0/com.example.asm_coban.app-main-31:/layout/activity_quanliphongban.xml"
+    },
+    {
+        "merged": "/Users/macbookpro/.gradle/daemon/8.0/com.example.asm_coban.app-merged_res-29:/layout_activity_login.xml.flat",
+        "source": "/Users/macbookpro/.gradle/daemon/8.0/com.example.asm_coban.app-main-31:/layout/activity_login.xml"
+    },
+    {
+        "merged": "/Users/macbookpro/.gradle/daemon/8.0/com.example.asm_coban.app-merged_res-29:/drawable_e.png.flat",
+        "source": "/Users/macbookpro/.gradle/daemon/8.0/com.example.asm_coban.app-main-31:/drawable/e.png"
+    },
+    {
+        "merged": "/Users/macbookpro/.gradle/daemon/8.0/com.example.asm_coban.app-merged_res-29:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "/Users/macbookpro/.gradle/daemon/8.0/com.example.asm_coban.app-main-31:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/macbookpro/.gradle/daemon/8.0/com.example.asm_coban.app-merged_res-29:/drawable_baseline_chevron_left_24.xml.flat",
+        "source": "/Users/macbookpro/.gradle/daemon/8.0/com.example.asm_coban.app-main-31:/drawable/baseline_chevron_left_24.xml"
+    },
+    {
+        "merged": "/Users/macbookpro/.gradle/daemon/8.0/com.example.asm_coban.app-merged_res-29:/drawable_logo.png.flat",
+        "source": "/Users/macbookpro/.gradle/daemon/8.0/com.example.asm_coban.app-main-31:/drawable/logo.png"
+    },
+    {
+        "merged": "/Users/macbookpro/.gradle/daemon/8.0/com.example.asm_coban.app-merged_res-29:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/macbookpro/.gradle/daemon/8.0/com.example.asm_coban.app-main-31:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/macbookpro/.gradle/daemon/8.0/com.example.asm_coban.app-merged_res-29:/drawable_baseline_person_add_alt_1_24.xml.flat",
+        "source": "/Users/macbookpro/.gradle/daemon/8.0/com.example.asm_coban.app-main-31:/drawable/baseline_person_add_alt_1_24.xml"
+    },
+    {
+        "merged": "/Users/macbookpro/.gradle/daemon/8.0/com.example.asm_coban.app-merged_res-29:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "/Users/macbookpro/.gradle/daemon/8.0/com.example.asm_coban.app-main-31:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/macbookpro/.gradle/daemon/8.0/com.example.asm_coban.app-merged_res-29:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/macbookpro/.gradle/daemon/8.0/com.example.asm_coban.app-main-31:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/macbookpro/.gradle/daemon/8.0/com.example.asm_coban.app-merged_res-29:/menu_menu_toolbar.xml.flat",
+        "source": "/Users/macbookpro/.gradle/daemon/8.0/com.example.asm_coban.app-main-31:/menu/menu_toolbar.xml"
+    },
+    {
+        "merged": "/Users/macbookpro/.gradle/daemon/8.0/com.example.asm_coban.app-merged_res-29:/drawable_baseline_arrow_back_ios_new_24.xml.flat",
+        "source": "/Users/macbookpro/.gradle/daemon/8.0/com.example.asm_coban.app-main-31:/drawable/baseline_arrow_back_ios_new_24.xml"
+    },
+    {
+        "merged": "/Users/macbookpro/.gradle/daemon/8.0/com.example.asm_coban.app-merged_res-29:/layout_activity_welcome.xml.flat",
+        "source": "/Users/macbookpro/.gradle/daemon/8.0/com.example.asm_coban.app-main-31:/layout/activity_welcome.xml"
+    },
+    {
+        "merged": "/Users/macbookpro/.gradle/daemon/8.0/com.example.asm_coban.app-merged_res-29:/drawable_ic_launcher_background.xml.flat",
+        "source": "/Users/macbookpro/.gradle/daemon/8.0/com.example.asm_coban.app-main-31:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/Users/macbookpro/.gradle/daemon/8.0/com.example.asm_coban.app-merged_res-29:/drawable_logo_android.png.flat",
+        "source": "/Users/macbookpro/.gradle/daemon/8.0/com.example.asm_coban.app-main-31:/drawable/logo_android.png"
+    },
+    {
+        "merged": "/Users/macbookpro/.gradle/daemon/8.0/com.example.asm_coban.app-merged_res-29:/drawable_b.png.flat",
+        "source": "/Users/macbookpro/.gradle/daemon/8.0/com.example.asm_coban.app-main-31:/drawable/b.png"
+    }
+]

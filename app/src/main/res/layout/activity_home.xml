@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:background="@drawable/bgr_home"
+    android:orientation="vertical"
+    android:padding="10dp"
+    tools:context=".Login">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="left"
+        android:text="Quản lý nhân viên"
+        android:textColor="#000"
+        android:textSize="30dp"
+        android:textStyle="bold" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="poly software company"
+        android:layout_gravity="left"
+        android:textAllCaps="true"
+        android:textColor="#093E68"
+        android:textSize="20dp"
+        android:textStyle="bold" />
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="130dp"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/btnPhongBan"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/bgr_btn_transparent"
+            android:textColor="#FF0000"
+            android:drawableTop="@drawable/baseline_home_work_24"
+            android:textStyle="bold"
+            android:layout_weight="1"
+            android:padding="10dp"
+            android:layout_marginRight="5dp"
+            android:textSize="25dp"
+            android:text="Phòng ban"/>
+
+        <Button
+            android:id="@+id/btnNhanVien"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/bgr_btn_transparent"
+            android:textColor="#002DA0"
+            android:drawableTop="@drawable/baseline_groups_24"
+            android:textStyle="bold"
+            android:layout_weight="1"
+            android:padding="10dp"
+            android:layout_marginLeft="5dp"
+            android:textSize="25dp"
+            android:text="Nhân viên"/>
+
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/btnLogout"
+        android:layout_width="170dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="30dp"
+        android:background="@drawable/bgr_btn_transparent"
+        android:textColor="#000"
+        android:drawableTop="@drawable/baseline_exit_to_app_24"
+        android:textStyle="bold"
+        android:padding="10dp"
+        android:layout_marginLeft="5dp"
+        android:textSize="25dp"
+        android:text="Đăng xuất"/>
+
+</LinearLayout>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".QuanLyPhongBan">
+
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/toolbarPhongBan"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#2196F3"
+        app:titleTextColor="@color/white"
+        app:title="Phòng ban" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:padding="10dp"
+        android:orientation="vertical">
+
+        <Button
+            android:padding="7dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/bgr_btn_transparent"
+            android:drawableLeft="@drawable/baseline_home_work_24"
+            android:gravity="fill"
+            android:text="   Nhân sự"
+            android:textColor="@color/black" />
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="7dp"
+            android:layout_marginTop="10dp"
+            android:background="@drawable/bgr_btn_transparent"
+            android:drawableLeft="@drawable/baseline_home_work_24"
+            android:gravity="fill"
+            android:text="   Hành chính"
+            android:textColor="@color/black" />
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:background="@drawable/bgr_btn_transparent"
+            android:drawableLeft="@drawable/baseline_home_work_24"
+            android:gravity="fill"
+            android:padding="7dp"
+            android:text="   Đào tạo"
+            android:textColor="@color/black" />
+    </LinearLayout>
+
+</LinearLayout>
